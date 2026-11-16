@@ -57,8 +57,12 @@ El notebook recorre los diez apartados: comprensión, calidad, descripción, exp
 
 Los resultados numéricos quedan en `reports/resumen_eda.json`. El detalle por cada par de test se guarda solo localmente en `data/processed/cobertura_por_par_test.csv`. No se entrenan modelos en esta fase.
 
+## Estado del repositorio
+
+El proyecto está publicado en la rama `main` del repositorio del equipo. Incluye el notebook ejecutado, gráficas, tablas agregadas y documentación. Los CSV originales y el detalle completo por par de test se conservan solo localmente.
+
 ## Antes de entregar
 
-Revisar y discutir el notebook; comprobar su publicación en el repositorio indicado; realizar un pull real por integrante y guardar sus capturas en `reports/evidencias/`. El repositorio local por sí solo no demuestra publicación ni colaboración en GitHub.
+Revisar y discutir el notebook; realizar un pull real por integrante y guardar sus capturas en `reports/evidencias/`. El repositorio local por sí solo no demuestra publicación ni colaboración en GitHub.
 
 El enunciado permite IA y menciona específicamente Claude Code dentro de VS Code. El equipo debe poder explicar y verificar las decisiones y resultados de su entrega.

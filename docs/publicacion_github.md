@@ -1,8 +1,8 @@
 # Publicación y evidencias de GitHub
 
-El proyecto ya tiene un repositorio Git local en esta carpeta. El repositorio del equipo es https://github.com/samgom13/PRODUCT-DEVELOPMENT y los integrantes son Luis Zarate y Samuel Gómez. La publicación se comprobará después de autenticar la cuenta samgom13.
+El proyecto ya tiene un repositorio Git local en esta carpeta. El repositorio del equipo es https://github.com/samgom13/PRODUCT-DEVELOPMENT y los integrantes son Luis Zarate y Samuel Gómez. La cuenta samgom13 está autenticada y el primer envío a main se verificó correctamente.
 
-## Primer commit y publicación
+## Publicación realizada y revisión local
 
 Desde una terminal abierta en `Proyectos`, revisar los cambios y confirmar que ningún CSV de `data/raw/` esté incluido:
 

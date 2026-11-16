@@ -4,4 +4,4 @@ Se leyó el enunciado completo y se descargó/generó la plantilla oficial Cooki
 
 Se verificó que los archivos originales conservaran sus hashes, que las agregaciones de unidades fueran coherentes y que los datos crudos y el detalle por par de test estuvieran excluidos de Git. El repositorio local utiliza la rama main. La cuenta y el repositorio indicados son samgom13 y https://github.com/samgom13/PRODUCT-DEVELOPMENT.
 
-Integrantes confirmados: Luis Zarate y Samuel Gómez. Pendiente: completar el acceso al repositorio, verificar la publicación, revisar las decisiones del análisis con el equipo y reunir capturas reales del pull. No se han entrenado modelos ni presentado la entrega en la plataforma del curso.
+Integrantes confirmados: Luis Zarate y Samuel Gómez. La publicación en main fue verificada en GitHub. Pendiente: revisar las decisiones del análisis con el equipo, comprobar el registro del grupo en la plataforma académica y reunir capturas reales del pull. No se han entrenado modelos ni presentado la entrega en la plataforma del curso.
