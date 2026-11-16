@@ -1,0 +1,6 @@
+{
+  "source": "https://github.com/drivendataorg/cookiecutter-data-science",
+  "commit": "17c991b0b03668f6e36503a4416202900196f501",
+  "generator": "ccds v2.3.0",
+  "project_name": "Predict Future Sales"
+}

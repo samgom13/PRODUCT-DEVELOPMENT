@@ -1,0 +1,7 @@
+﻿archivo,filas,columnas,MB
+item_categories.csv,84,2,0.003573
+items.csv,22170,3,1.568417
+sales_train.csv,2935849,6,94.603866
+sample_submission.csv,214200,2,2.245108
+shops.csv,60,2,0.002977
+test.csv,214200,3,3.182735

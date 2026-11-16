@@ -1,0 +1,21 @@
+{
+  "filas_originales": 2935849,
+  "filas_analisis": 2935843,
+  "meses": 34,
+  "duplicados": 6,
+  "precios_invalidos": 1,
+  "registros_devolucion": 7356,
+  "unidades_netas": 3648200.0,
+  "pares_test": 214200,
+  "pares_test_con_historial": 111404,
+  "cobertura_test_pct": 52.0093370681606,
+  "python": "3.13.9",
+  "raw_sha256": {
+    "item_categories.csv": "0370c58682701140234f93cc126becd9da585da2b6e88bf6106d330d4dc68a2b",
+    "items.csv": "4e606be321bd5f0e0d6dc35fe4c3eb15ded96eef6305cc6d7aa3187ee3b6a85d",
+    "sales_train.csv": "aa23f232a697beffc7764e06a3ede7007eba8c222ad7babbf61bd98841a65972",
+    "sample_submission.csv": "0bbb9e104d173aee92efb2cf603d6ecd1f309dc131d1002761ad9b8b037241d9",
+    "shops.csv": "37290bac867cb0bc5edcb15fea946c347f6773a4a48c886db0d57e7f67d4d86c",
+    "test.csv": "b40c075351286bbea1b04c3cbb2ac279478f139d0e5b87c52df776db5e842cb0"
+  }
+}

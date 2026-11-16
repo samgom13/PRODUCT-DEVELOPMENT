@@ -1,0 +1,7 @@
+﻿,tipo_original,tipo_analisis
+date,object,datetime64[ns]
+date_block_num,int64,int64
+shop_id,int64,int64
+item_id,int64,int64
+item_price,float64,float64
+item_cnt_day,float64,float64
